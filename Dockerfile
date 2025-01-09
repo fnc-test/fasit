@@ -7,3 +7,5 @@ COPY src/main/webapp src/main/webapp
 COPY target/apidocs target/apidocs
 
 COPY target/fasit.jar /app/app.jar
+
+ fasd fasd fas
